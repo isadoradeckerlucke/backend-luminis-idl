@@ -1,0 +1,3 @@
+cors==2.8.5
+dateutil==0.1.0
+flask==3.0.1
